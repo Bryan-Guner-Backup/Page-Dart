@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wordpress on PageDart</title>
+    <link>https://pagedart.com/categories/wordpress/</link>
+    <description>Recent content in wordpress on PageDart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 13:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://pagedart.com/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Create a WordPress Plugin</title>
+      <link>https://pagedart.com/blog/how-to-create-a-wordpress-plugin/</link>
+      <pubDate>Wed, 20 May 2020 13:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-create-a-wordpress-plugin/</guid>
+      <description>I recommend building a WordPress plugin instead of code in your functions.php file.
+This is because the code in your functions.php will disappear as soon as you change the theme!
+Instead, you can move this code to a plugin which will allow you to change the theme without breaking your site. In this tutorial, we will cover how to create a WordPress plugin.
+It is easier then you might think.</description>
+    </item>
+    
+    <item>
+      <title>Add Search to WordPress Menu</title>
+      <link>https://pagedart.com/blog/add-search-to-wordpress-menu/</link>
+      <pubDate>Wed, 20 May 2020 11:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/add-search-to-wordpress-menu/</guid>
+      <description>In this tutorial, we are going to add search to the WordPress Menu.
+This is not as easy as you might think!
+There is no easy way in the WordPress admin area to add the search bar. But fear not, I will show you two ways you can add the search bar yourself.
+One option will have you installing an off-the-shelf plugin. The second option is adding some code to your site.</description>
+    </item>
+    
+    <item>
+      <title>WordPress Search for Custom Post Type</title>
+      <link>https://pagedart.com/blog/wordpress-search-for-custom-post-type/</link>
+      <pubDate>Sun, 03 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/wordpress-search-for-custom-post-type/</guid>
+      <description>In this tutorial, we are going to create a search bar that will only search your custom post types in WordPress.
+We will cover:
+ How to Create a Custom Post Type  Adding a Custom Post Type with Code Using a plugin to create a Custom Post Type   Creating a Custom Post My Custom Post Type is not Showing in Search How to Search only a Custom Post Type WordPress Search for Custom Post Type, Final Thoughts   Let&#39;s dive in.</description>
+    </item>
+    
+    <item>
+      <title>Best Lazy Load Plugin</title>
+      <link>https://pagedart.com/blog/best-lazy-load-plugin/</link>
+      <pubDate>Mon, 13 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/best-lazy-load-plugin/</guid>
+      <description>Today we are going to look at the best lazy load plugin that you can install in WordPress.
+Lazy loading images can be one of the single best improvements you can make to speed up your site.
+Yet, not all plugins are equal!
+Many lazy load plugins use old techniques that will slow down your site on modern browsers.
+We are going to cover only 3 of the best plugins that deserve your attention.</description>
+    </item>
+    
+    <item>
+      <title>How to Restore a WordPress Site</title>
+      <link>https://pagedart.com/blog/how-to-restore-a-wordpress-site/</link>
+      <pubDate>Sun, 05 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-restore-a-wordpress-site/</guid>
+      <description>Uh oh! I am sorry to hear that your WordPress site is not very well!
+Don&#39;t worry this tutorial will help you to restore it.
+We have covered how to backup your site in a previous article. Make sure you follow that to understand the backup options you have.
+If you followed that article or you have backups that use the same techniques then, you have a backup with either a:</description>
+    </item>
+    
+    <item>
+      <title>How to Backup a WordPress Site</title>
+      <link>https://pagedart.com/blog/how-to-backup-a-wordpress-site/</link>
+      <pubDate>Tue, 31 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-backup-a-wordpress-site/</guid>
+      <description>Things will and do go wrong with WordPress and you need to be ready. In this tutorial, we are going to cover how to backup a WordPress site.
+We are going to leave nothing to chance. I will cover how to do backups using three methods:
+ Your hosting provider A plugin Manual backup  You should use all these backup methods. That&#39;s right all methods!
+When you are preparing to backup your site you need to think about the worst-case scenario.</description>
+    </item>
+    
+    <item>
+      <title>How to Defer Offscreen Images in WordPress</title>
+      <link>https://pagedart.com/blog/how-to-defer-offscreen-images-in-wordpress/</link>
+      <pubDate>Fri, 27 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-defer-offscreen-images-in-wordpress/</guid>
+      <description>PageSpeed Insights will suggest that you need to defer offscreen images:
+   In the above example, deferring these images will speed up the page by 9 seconds!
+In this tutorial, I will show you how to defer offscreen images in WordPress to give your site a speed boost.
+ PageSpeed Insights Results The Fold Lazy Loading How to add Lazy loading to WordPress Wrapping Up, How to Defer Offscreen Images in WordPress   PageSpeed Insights Results When PageSpeed Insights finds many images on a page it will suggest that you &amp;ldquo;defer offscreen images&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Create a Sitemap for WordPress</title>
+      <link>https://pagedart.com/blog/create-a-sitemap-for-wordpress/</link>
+      <pubDate>Tue, 24 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/create-a-sitemap-for-wordpress/</guid>
+      <description>In this tutorial, you are going to learn how to create a sitemap for WordPress. Sitemaps help SEO as they are a list of all the pages on your site.
+Submit this list to Google and Bing to help your pages appear in the search results.
+We will create a sitemap for your site step-by-step we will also cover how you can then submit this to Google and Bing.</description>
+    </item>
+    
+    <item>
+      <title>How to Install a WordPress Plugin</title>
+      <link>https://pagedart.com/blog/how-to-install-a-wordpress-plugin/</link>
+      <pubDate>Fri, 20 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-install-a-wordpress-plugin/</guid>
+      <description>In this article, we are going to look at how to install a WordPress plugin. If you are an absolute beginner at WordPress don&#39;t worry. It can be scary when you need to install a plugin for the first time.
+With this guide, I will walk you through it step by step.
+There are two ways you can install a plugin on WordPress:
+ Using the WordPress plugins marketplace Upload a plugin using a zip file  We are going to cover both of these here so whether you already have the plugin zip file or not this guide will help you.</description>
+    </item>
+    
+    <item>
+      <title>Where is Robots.txt in WordPress</title>
+      <link>https://pagedart.com/blog/where-is-robots-txt-in-wordpress/</link>
+      <pubDate>Tue, 17 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/where-is-robots-txt-in-wordpress/</guid>
+      <description>Where is robots.txt in WordPress? This is the question we are going to answer in this tutorial.
+We will cover where to find it and look at the contents of the file. With explanations of each line helping you understand what it does.
+With that knowledge, you can edit the file with confidence. We will also test the changes using tools from Google to make sure there are no mistakes.</description>
+    </item>
+    
+    <item>
+      <title>How to Optimize Images in WordPress</title>
+      <link>https://pagedart.com/blog/how-to-optimize-images-in-wordpress/</link>
+      <pubDate>Wed, 11 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-optimize-images-in-wordpress/</guid>
+      <description>Images make up a large part of any web page. When people ask me what they should do to improve page speed, I always reply to &amp;ldquo;optimize your images&amp;rdquo;.
+In this tutorial, we are going to cover how you can optimize images in WordPress.
+We will cover:
+ Why should you optimize images? What is an optimized image? How to optimize images Image Optimization and Page Speed ReSmushIt Advanced Settings Wrapping Up, How to Optimize Images in WordPress   Let&#39;s get started.</description>
+    </item>
+    
+    <item>
+      <title>How to Embed Youtube Videos on WordPress</title>
+      <link>https://pagedart.com/blog/how-to-embed-youtube-videos-on-wordpress/</link>
+      <pubDate>Mon, 09 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-embed-youtube-videos-on-wordpress/</guid>
+      <description>We are going to look at how to embed youtube videos on WordPress step by step.
+We will look at how you can add a video with the WordPress blocks editor and why you should not use it!
+I will show you the correct way without slowing down your site.
+Let&#39;s dive in.
+ Embed a Youtube Video Youtube Embed Code Youtube and Page Speed How to Embed Youtube Videos on WordPress, Final Thoughts   Embed a Youtube Video If you are using the latest version of WordPress then you are using the new editor which uses blocks.</description>
+    </item>
+    
+    <item>
+      <title>How to Redirect HTTP to HTTPS in WordPress</title>
+      <link>https://pagedart.com/blog/how-to-redirect-http-to-https-in-wordpress/</link>
+      <pubDate>Wed, 04 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-redirect-http-to-https-in-wordpress/</guid>
+      <description>Is your site secure? In this article, we are going to make sure it is!
+We will look at how to redirect HTTP to HTTPS in WordPress which will secure your site for your customers.
+As well as giving your users privacy HTTPS will also give you an SEO boost thanks to Google.
+To run your website over HTTPS you will need an SSL certificate, this can sound scary.</description>
+    </item>
+    
+  </channel>
+</rss>

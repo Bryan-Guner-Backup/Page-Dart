@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>security on PageDart</title>
+    <link>https://pagedart.com/categories/security/</link>
+    <description>Recent content in security on PageDart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://pagedart.com/categories/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why is my Site not Secure</title>
+      <link>https://pagedart.com/blog/why-is-my-site-not-secure/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/why-is-my-site-not-secure/</guid>
+      <description>Why does chrome warn that your site is not secure?
+Seeing the &amp;ldquo;not secure&amp;rdquo; sign next to the URL, like this:
+   Then your site is not secure!
+Let&#39;s take a look into why and how you can fix it.
+ What Changed? Should I use HTTPS? Should I Have an SSL Certificate? Should I Secure My Site? How to get a Free SSL Certificate Migration from HTTP to HTTPS  Sitemap HTTPS Links HTTPS Server Redirection   Secure Padlock Wrapping Up, Why is my Site not Secure?</description>
+    </item>
+    
+    <item>
+      <title>How to Redirect HTTP to HTTPS in WordPress</title>
+      <link>https://pagedart.com/blog/how-to-redirect-http-to-https-in-wordpress/</link>
+      <pubDate>Wed, 04 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-redirect-http-to-https-in-wordpress/</guid>
+      <description>Is your site secure? In this article, we are going to make sure it is!
+We will look at how to redirect HTTP to HTTPS in WordPress which will secure your site for your customers.
+As well as giving your users privacy HTTPS will also give you an SEO boost thanks to Google.
+To run your website over HTTPS you will need an SSL certificate, this can sound scary.</description>
+    </item>
+    
+  </channel>
+</rss>

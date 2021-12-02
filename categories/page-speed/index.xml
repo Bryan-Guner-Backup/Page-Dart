@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>page speed on PageDart</title>
+    <link>https://pagedart.com/categories/page-speed/</link>
+    <description>Recent content in page speed on PageDart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://pagedart.com/categories/page-speed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>30 Ways To Improve Your Website Performance</title>
+      <link>https://pagedart.com/blog/30-ways-to-improve-your-website-performance/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/30-ways-to-improve-your-website-performance/</guid>
+      <description>It can be daunting when trying to improve website performance.
+Where do you start?
+With recommendations changing all the time, how can you make sure that you are not left behind?
+With so many areas to improve, where is the best place to concentrate your efforts?
+This article breaks down website performance into small tasks.
+Each one of the tasks is actionable, we will ask:
+ WHY are we improving this aspect of the site WHAT to check on the page HOW to make the improvement  We will also categorize the impact of fixing each task so that you get the biggest bang for your buck.</description>
+    </item>
+    
+    <item>
+      <title>How to Improve TTFB</title>
+      <link>https://pagedart.com/blog/how-to-improve-ttfb/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-improve-ttfb/</guid>
+      <description>The TTFB or Time To First Byte is the time it takes for your web server to respond to a user&#39;s request.
+TTFB is critical to the success of your website.
+Research has shown that if your page takes longer than 3 seconds to load you will start to lose users.
+This is your bounce rate.
+TTFB matters. The page stays blank during this time and the user has to wait.</description>
+    </item>
+    
+    <item>
+      <title>How to minify JavaScript</title>
+      <link>https://pagedart.com/blog/how-to-minify-javascript/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-minify-javascript/</guid>
+      <description>When you minify your JavaScript you will improve your sites Page Speed.
+In this tutorial, we are going to look at how to minify JavaScript. We will cover:
+ Minify JavaScript Recap Why should I minify JavaScript How to Minify JavaScript  How to minify JavaScript with a CDN How to minify JavaScript With an Online Tool How to minify JavaScript for WordPress   Wrapping Up, How to minify JavaScript   Minify JavaScript Recap You may have noticed that sometimes there are two versions of JavaScript.</description>
+    </item>
+    
+    <item>
+      <title>Importance of Mobile Friendly Websites</title>
+      <link>https://pagedart.com/blog/importance-of-mobile-friendly-websites/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/importance-of-mobile-friendly-websites/</guid>
+      <description>I was traveling on the train when planning this post.
+Browsing the web, doing some fact-checking on my phone.
+I looked up and saw at least 20 other passengers all staring at their mobile.
+In the last 10 years, the rise of mobile has triggered a seismic shift in how we consume content.
+A 2017 report by CDN provider Akamai shows that:
+ Over 56% of online sales traffic over the holiday period, was on mobile Mobile devices also had the highest conversion rate growth with 71% on Black Friday The Mobile bounce rate was 50% (Ouch!</description>
+    </item>
+    
+    <item>
+      <title>Shopify Page Load Speed: 10 tips to increase web performance</title>
+      <link>https://pagedart.com/blog/shopify-page-load-speed/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/shopify-page-load-speed/</guid>
+      <description>Are you looking to increase the conversion rate on your Shopify site?
+Do you want to increase your Shopify page load speed?
+Do you want an SEO boost by improving the page speed?
+We will go through 10 performance improvements that you can make today to your Shopify store.
+These improvements are:
+ Monitor Mobile Theme Apps Liquid Image Optimization Lazy load Images Javascript CSS Fonts  Before we talk about improvements we must talk about monitoring.</description>
+    </item>
+    
+    <item>
+      <title>Web Performance Budget: Do Not Let Your Site Get Overweight</title>
+      <link>https://pagedart.com/blog/web-performance-budget/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/web-performance-budget/</guid>
+      <description>I recently went on my own personal weight loss journey.
+Eventually, with hard work and determination, I was able to reach my goal. I lost 21 pounds (18kg) in just under a year.
+I knew from experience that losing the weight was the easy part.
+It was keeping it off that was hard.
+The daily battle of keeping the weight off!
+So far, I am winning this battle. I have managed to keep the weight off.</description>
+    </item>
+    
+    <item>
+      <title>Website Performance Benchmarks: Track your competitors site speed</title>
+      <link>https://pagedart.com/blog/website-performance-benchmarks/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/website-performance-benchmarks/</guid>
+      <description>Let’s look at how we can use free tools to perform website performance benchmarks against your competitor&#39;s sites.
+Since we are talking about website speed, I think we should begin with a race. Why not race two of the biggest streaming websites, Netflix and Hulu?
+Which page do you think will load faster?
+Your browser does not support the video tag.  Did you guess correctly? Netflix wins this round.</description>
+    </item>
+    
+    <item>
+      <title>Website Performance Factors: 11 tips to speed up your site</title>
+      <link>https://pagedart.com/blog/website-performance-factors/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/website-performance-factors/</guid>
+      <description>We all know what a slow website feels like.
+  Watching the loading bar as it slowly creeps towards complete.
+What happens when it takes too long?
+You leave.
+Life is busy enough, you don&#39;t have time to wait for websites to load!
+But don&#39;t worry. There is lots you can do to make your site fast.
+I am going to list the key website performance factors that are slowing down your site and how to fix them.</description>
+    </item>
+    
+    <item>
+      <title>Website Performance KPIs: The 4 KPIs you need to track</title>
+      <link>https://pagedart.com/blog/website-performance-kpis/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/website-performance-kpis/</guid>
+      <description>Tracking how your website is performing is critical to the success of your site.
+Using KPIs, we can ensure that your site continuously improves over time.
+There are so many aspects to improving a site it can be overwhelming. Aspects such as:
+ Improving traffic Gaining a higher conversion rate Increasing social engagement  But how do we know they are important?
+Before we look at the recommended KPIs, we need a shared understanding of what a KPI is.</description>
+    </item>
+    
+    <item>
+      <title>Website Performance Metrics: The only 3 metrics you need to track</title>
+      <link>https://pagedart.com/blog/website-performance-metrics/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/website-performance-metrics/</guid>
+      <description>Picking the correct website performance metrics is not the simplest task. It&#39;s easy to get lost, with all the data that is available.
+Instead, you need to track the metrics that have the biggest impact on real humans in the real world. Not robots in a lab.
+That&#39;s why there are only 3 metrics that you need to take into account and monitor.
+These metrics all directly affect your users when they browse your site.</description>
+    </item>
+    
+    <item>
+      <title>What is an AMP Page?</title>
+      <link>https://pagedart.com/blog/what-is-an-amp-page/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-an-amp-page/</guid>
+      <description>AMP is a way of building fast websites.
+It is like HTML but has its own set of rules that you need to follow.
+   If you follow these rules then Google will cache your page on their server.
+This makes the site super fast for Google Search users.
+But before you rush off and create your first AMP page there is a lot to consider.
+Let&#39;s take a look.</description>
+    </item>
+    
+    <item>
+      <title>What is YSlow: Why you need to move to Google Lighthouse</title>
+      <link>https://pagedart.com/blog/what-is-yslow/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-yslow/</guid>
+      <description>Over the last few years, the pace at which performance tools have evolved is staggering.
+There are so many factors that can affect how a website loads, that it is impossible to keep up.
+We rely on these tools to help us see through the fog.
+   One of the early tools which would breakdown website performance issues was YSlow.
+This tool was part of an open-source project by Yahoo!</description>
+    </item>
+    
+    <item>
+      <title>How to Defer Parsing of JavaScript</title>
+      <link>https://pagedart.com/blog/how-to-defer-parsing-of-javascript/</link>
+      <pubDate>Tue, 21 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-defer-parsing-of-javascript/</guid>
+      <description>When speeding up your website two things have the biggest impact.
+ Optimize your images and lazy load Defer parsing of JavaScript  The first is easy to understand. The second is much more difficult to get a handle on.
+What exactly is defer parsing of JavaScript?
+This article is going to cover how to defer parsing of Javascript.
+This is a complex subject.
+Even if you decide not to attempt this yourself.</description>
+    </item>
+    
+    <item>
+      <title>Best Lazy Load Plugin</title>
+      <link>https://pagedart.com/blog/best-lazy-load-plugin/</link>
+      <pubDate>Mon, 13 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/best-lazy-load-plugin/</guid>
+      <description>Today we are going to look at the best lazy load plugin that you can install in WordPress.
+Lazy loading images can be one of the single best improvements you can make to speed up your site.
+Yet, not all plugins are equal!
+Many lazy load plugins use old techniques that will slow down your site on modern browsers.
+We are going to cover only 3 of the best plugins that deserve your attention.</description>
+    </item>
+    
+    <item>
+      <title>How to Defer Offscreen Images in WordPress</title>
+      <link>https://pagedart.com/blog/how-to-defer-offscreen-images-in-wordpress/</link>
+      <pubDate>Fri, 27 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-defer-offscreen-images-in-wordpress/</guid>
+      <description>PageSpeed Insights will suggest that you need to defer offscreen images:
+   In the above example, deferring these images will speed up the page by 9 seconds!
+In this tutorial, I will show you how to defer offscreen images in WordPress to give your site a speed boost.
+ PageSpeed Insights Results The Fold Lazy Loading How to add Lazy loading to WordPress Wrapping Up, How to Defer Offscreen Images in WordPress   PageSpeed Insights Results When PageSpeed Insights finds many images on a page it will suggest that you &amp;ldquo;defer offscreen images&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>How to Optimize Images in WordPress</title>
+      <link>https://pagedart.com/blog/how-to-optimize-images-in-wordpress/</link>
+      <pubDate>Wed, 11 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-optimize-images-in-wordpress/</guid>
+      <description>Images make up a large part of any web page. When people ask me what they should do to improve page speed, I always reply to &amp;ldquo;optimize your images&amp;rdquo;.
+In this tutorial, we are going to cover how you can optimize images in WordPress.
+We will cover:
+ Why should you optimize images? What is an optimized image? How to optimize images Image Optimization and Page Speed ReSmushIt Advanced Settings Wrapping Up, How to Optimize Images in WordPress   Let&#39;s get started.</description>
+    </item>
+    
+    <item>
+      <title>How to Embed Youtube Videos on WordPress</title>
+      <link>https://pagedart.com/blog/how-to-embed-youtube-videos-on-wordpress/</link>
+      <pubDate>Mon, 09 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-embed-youtube-videos-on-wordpress/</guid>
+      <description>We are going to look at how to embed youtube videos on WordPress step by step.
+We will look at how you can add a video with the WordPress blocks editor and why you should not use it!
+I will show you the correct way without slowing down your site.
+Let&#39;s dive in.
+ Embed a Youtube Video Youtube Embed Code Youtube and Page Speed How to Embed Youtube Videos on WordPress, Final Thoughts   Embed a Youtube Video If you are using the latest version of WordPress then you are using the new editor which uses blocks.</description>
+    </item>
+    
+    <item>
+      <title>Does Page Speed Affect SEO</title>
+      <link>https://pagedart.com/blog/does-page-speed-affect-seo/</link>
+      <pubDate>Wed, 06 Nov 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/does-page-speed-affect-seo/</guid>
+      <description>Does Page Speed Affect SEO? Yes.
+It&#39;s that simple.
+Google has been pushing Page Speed for the last few years and one thing is clear.
+They want your website to be fast.
+In this article, we will look at why they want the web to be fast.
+We will also look at how you can measure your site and make improvements.
+Google has provided many tools in this space and we will show you how to use them.</description>
+    </item>
+    
+    <item>
+      <title>Factors Affecting Website Performance: Minify and Compress</title>
+      <link>https://pagedart.com/blog/factors-affecting-website-performance/</link>
+      <pubDate>Fri, 13 Sep 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/factors-affecting-website-performance/</guid>
+      <description>Websites are getting larger. HTTP Archive has been tracking the page weight of sites since 2010 and there is a clear trend.
+The size of pages on the web is increasing.
+In July 2019 the average size was under 2mb. With some pages creeping up above 7mb and it’s not that the sites have more files.
+HTTP Archive also tracks the number of requests sent from a page.
+These requests to files like CSS, javascript, images, etc are not going up at the same rate.</description>
+    </item>
+    
+    <item>
+      <title>Compare Website Speed Side by Side</title>
+      <link>https://pagedart.com/blog/compare-website-speed-side-by-side/</link>
+      <pubDate>Tue, 03 Sep 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/compare-website-speed-side-by-side/</guid>
+      <description>In this post, we are going to look at how we can compare two webpages side by side.
+To do this we are going to use the free tool from WebPageTest.org.
+The tool is the visual comparison tool.
+The killer feature of this tool is that it allows you to create a video that loads two or more websites side by side like this:
+Your browser does not support the video tag.</description>
+    </item>
+    
+    <item>
+      <title>Benchmark Websites: Track Competitors Performance Using Google Sheets</title>
+      <link>https://pagedart.com/blog/benchmark-websites/</link>
+      <pubDate>Sun, 01 Sep 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/benchmark-websites/</guid>
+      <description>This post is a hands-on guide on how to use free tools to track and watch your competitor&#39;s websites.
+We have discussed in Website Performance Benchmarks the importance of tracking your competitors.
+Let&#39;s look at how we can automate the process.
+And did we mention all for free!
+We will use the tools Google Sheets and the Google PageSpeed Insights API as our data source.
+Don&#39;t worry if you aren&#39;t a software developer.</description>
+    </item>
+    
+  </channel>
+</rss>

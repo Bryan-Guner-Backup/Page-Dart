@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fundamentals on PageDart</title>
+    <link>https://pagedart.com/categories/fundamentals/</link>
+    <description>Recent content in fundamentals on PageDart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://pagedart.com/categories/fundamentals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is a Canonical URL?</title>
+      <link>https://pagedart.com/blog/what-is-a-canonical-url/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-canonical-url/</guid>
+      <description>What exactly is a canonical URL and why would you need one?
+It can be a tough job maintaining a website and all its content.
+Especially when the site gets big. As the number of developers and content editors working on a site goes up so does the complexity.
+   Keeping track of all the technical and content changes is a full-time job.
+Then people start linking to your site some with HTTP some without.</description>
+    </item>
+    
+    <item>
+      <title>What is a Meta Description?</title>
+      <link>https://pagedart.com/blog/what-is-a-meta-description/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-meta-description/</guid>
+      <description>Have you heard of meta descriptions? Not sure exactly what they are? You have come to the right place!
+We are going to discuss what they are, why you need them and who uses them.
+Google, Facebook, and Twitter will read your meta description. Save it to their database and show it to potential customers on each platform.
+An engaging description will increase traffic to your website. We call this the Click Through Rate (CTR) and descriptions can help improve this.</description>
+    </item>
+    
+    <item>
+      <title>What is a redirect?</title>
+      <link>https://pagedart.com/blog/what-is-a-redirect/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-redirect/</guid>
+      <description>In this post, we are going to look at what is a HTTP redirect.
+We are going to learn:
+ What is a redirect Why do I need to redirect? How do I set up a redirect?  How do I perform a 301 redirect? How do I perform a 302 redirect?   Managing many redirects Wrapping Up, What is a redirect?   It is important to understand redirects.</description>
+    </item>
+    
+    <item>
+      <title>What is a robots.txt?</title>
+      <link>https://pagedart.com/blog/what-is-a-robots-txt/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-robots-txt/</guid>
+      <description>Imagine this, you have put hours into your website writing content.
+Only to find out that your site has blocked Google.
+None of your pages are in search engine results!
+It would be horrible right?!
+Well, that is why you need to understand what is a robots txt file. It is very important to your technical SEO and will determine if a web crawler has access to read your site or not.</description>
+    </item>
+    
+    <item>
+      <title>What is Schema Markup?</title>
+      <link>https://pagedart.com/blog/what-is-schema-markup/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-schema-markup/</guid>
+      <description>By adding schema markup you give your site an advantage over the competition.
+This is because you use schema markup to create big and engaging Google Search results.
+In this post, we will look at what is schema markup? Why it is important? And how you can add it to your page.
+The topic of schema markup can get complicated fast.
+Instead of getting lost in all the schema types. This post will focus on how you can use schema markup to get more Google Search clicks.</description>
+    </item>
+    
+    <item>
+      <title>What is Technical SEO?</title>
+      <link>https://pagedart.com/blog/what-is-technical-seo/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-technical-seo/</guid>
+      <description>Is SEO an art or a science?
+One of the reasons for this debate is that many SEO tasks are difficult to measure. SEOs perform keyword research and link building. We know that these strategies help content rank, but there is no guarantee.
+Web developers, architects, and DevOps look at these tasks and see them as the job of marketing. Not something they need to worry about.</description>
+    </item>
+    
+    <item>
+      <title>What is a CDN?</title>
+      <link>https://pagedart.com/blog/what-is-a-cdn/</link>
+      <pubDate>Sat, 22 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-cdn/</guid>
+      <description>A CDN stands for Content Delivery Network. It has one job. To get your website as close as possible to your users.
+It can make all the difference to your page speed by storing a copy of your web pages in the cloud.
+We are going to look at what is a CDN, how they work and some of the providers on the market.
+Let&#39;s get started
+ What is a CDN and How do they Work What are the benefits of a CDN  Uptime Page Speed Scale as Users Grow Website Security Control of Assets   CDN Providers  BunnyCDN KeyCDN Cloudflare Fastly   Wrapping Up, What is a CDN?</description>
+    </item>
+    
+    <item>
+      <title>What are broken links?</title>
+      <link>https://pagedart.com/blog/what-are-broken-links/</link>
+      <pubDate>Mon, 17 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-are-broken-links/</guid>
+      <description>Links that no longer work are Broken Links.
+This could be because the page has gone or because there was a typo in the URL.
+Either way, the link is broken and this leads to poor user experience.
+You should make sure users have the best experience possible. So, you need to fix broken links.
+In this article, we are going to look at how you can find and fix these links.</description>
+    </item>
+    
+    <item>
+      <title>What is a Web Crawler?</title>
+      <link>https://pagedart.com/blog/what-is-a-web-crawler/</link>
+      <pubDate>Tue, 04 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-web-crawler/</guid>
+      <description>Let&#39;s dive into the world of web crawlers. A web crawler is software built to read the contents of web pages all over the internet.
+Sometimes also called bots or spiders. The most popular web crawler is Googlebot.
+Googlebot will visit your website and read the content of the page. Once it understands what the page is about, it will add the pages to the search engine index. The index is where Google stores information about your website.</description>
+    </item>
+    
+    <item>
+      <title>What is a sitemap?</title>
+      <link>https://pagedart.com/blog/what-is-a-sitemap/</link>
+      <pubDate>Tue, 28 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-sitemap/</guid>
+      <description>Sitemaps are important for your website&#39;s technical SEO. Google will use your sitemap to discover all the web pages on your site and get the content indexed.
+If your site is new then this is crucial! Google will not find a page until there is an external link to it.
+To help Google and others find your web pages you can create a sitemap. This is an XML file that lists the URL structure of your blog or site.</description>
+    </item>
+    
+    <item>
+      <title>What is Alt Text?</title>
+      <link>https://pagedart.com/blog/what-is-alt-text/</link>
+      <pubDate>Tue, 21 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-alt-text/</guid>
+      <description>What is alt text anyway?
+Let&#39;s look at what it is, why it is important and how to write great alt text.
+I will leave you with 5 tips for writing the perfect alt text.
+Grab your favorite beverage, let&#39;s dive in.
+ What is Alt Text anyway? Why is Alt Text Important? Alt text and SEO How to write great alt text?  1) Write the alt text as if you were describing it to a friend 2) Keep it short 3) Create unique descriptions for every image 4) Use your keywords if it describes the image 5) Don&#39;t do keyword stuffing   What are alt attributes and title attributes?</description>
+    </item>
+    
+    <item>
+      <title>What is a Title Tag?</title>
+      <link>https://pagedart.com/blog/what-is-a-title-tag/</link>
+      <pubDate>Sun, 19 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-title-tag/</guid>
+      <description>Every web page needs a title. At first look, you would think they are simple. Just adding a title right?!
+Yet, they are much more complicated than that.
+A title tag is the way your title is displayed on the following;
+ On search engines (SERPs, Google, Bing) Social media (Facebook, Twitter, Pinterest, etc) Web browsers (Chrome, Firefox, IE, Edge, etc)  They are very important for your SEO.</description>
+    </item>
+    
+  </channel>
+</rss>

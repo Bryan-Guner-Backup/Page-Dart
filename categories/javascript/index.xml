@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>javascript on PageDart</title>
+    <link>https://pagedart.com/categories/javascript/</link>
+    <description>Recent content in javascript on PageDart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://pagedart.com/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to install node.js, the easy way</title>
+      <link>https://pagedart.com/blog/how-to-install-node-js/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-install-node-js/</guid>
+      <description>We are going to look at how to install node.js the easy way on Mac OS X, Windows and Linux.
+You don&#39;t need to download the node package and try to install it. No! We are going to do it the easy way using package managers.
+Once you have node installed you will be able to run server-side JavaScript on your computer.
+We will also look at how you can upgrade node so you always have the latest version.</description>
+    </item>
+    
+    <item>
+      <title>How to link JavaScript to HTML</title>
+      <link>https://pagedart.com/blog/how-to-link-javascript-to-html/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-link-javascript-to-html/</guid>
+      <description>When creating web pages there comes a time when you need to do a bit more than display content. You need to load JavaScript.
+One of the first JavaScript files added is Google Analytics to track page loads and visitors.
+But how do you link JavaScript to HTML?
+In this tutorial, we are going to cover how to link JavaScript to HTML. We will look at:</description>
+    </item>
+    
+    <item>
+      <title>How to Call a Function in JavaScript?</title>
+      <link>https://pagedart.com/blog/how-to-call-a-function-in-javascript/</link>
+      <pubDate>Mon, 10 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-call-a-function-in-javascript/</guid>
+      <description>Functions are one of the main building blocks for JavaScript development.
+In this article we are going to look at:
+ How to call a function in JavaScript How to call a function from HTML How to call a function using the onclick event handler How to create a self-invoking function How to call an arrow function  There is a lot to cover!
+This is a beginner tutorial.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PageDart</title>
+    <link>https://pagedart.com/</link>
+    <description>Recent content on PageDart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pagedart.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Add Google Search to a Website</title>
+      <link>https://pagedart.com/blog/add-google-search-to-a-website/</link>
+      <pubDate>Wed, 20 May 2020 18:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/add-google-search-to-a-website/</guid>
+      <description>In this tutorial we are going to cover the fastest way to add Google Search to a website.
+I will show you a super quick way to add a Google search box on your website in under 5 minutes.
+Some of you who land on this page may not be looking to add a Google search box on your site.
+You may be looking to get your website pages into the Google search results.</description>
+    </item>
+    
+    <item>
+      <title>How to Create a WordPress Plugin</title>
+      <link>https://pagedart.com/blog/how-to-create-a-wordpress-plugin/</link>
+      <pubDate>Wed, 20 May 2020 13:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-create-a-wordpress-plugin/</guid>
+      <description>I recommend building a WordPress plugin instead of code in your functions.php file.
+This is because the code in your functions.php will disappear as soon as you change the theme!
+Instead, you can move this code to a plugin which will allow you to change the theme without breaking your site. In this tutorial, we will cover how to create a WordPress plugin.
+It is easier then you might think.</description>
+    </item>
+    
+    <item>
+      <title>How to Add a Search Bar in HTML</title>
+      <link>https://pagedart.com/blog/how-to-add-a-search-bar-in-html/</link>
+      <pubDate>Wed, 20 May 2020 12:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-add-a-search-bar-in-html/</guid>
+      <description>In this tutorial, we are going to add a search bar in HTML to your site!
+I will walk you through all the components you need to add a search bar in HTML and connect it to Google to search.
+Google will open in a new tab and only show results for your site.
+For those in a rush, the complete solution is at the bottom of the page. For those who want the deep dive keep reading!</description>
+    </item>
+    
+    <item>
+      <title>Add Search to WordPress Menu</title>
+      <link>https://pagedart.com/blog/add-search-to-wordpress-menu/</link>
+      <pubDate>Wed, 20 May 2020 11:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/add-search-to-wordpress-menu/</guid>
+      <description>In this tutorial, we are going to add search to the WordPress Menu.
+This is not as easy as you might think!
+There is no easy way in the WordPress admin area to add the search bar. But fear not, I will show you two ways you can add the search bar yourself.
+One option will have you installing an off-the-shelf plugin. The second option is adding some code to your site.</description>
+    </item>
+    
+    <item>
+      <title>30 Ways To Improve Your Website Performance</title>
+      <link>https://pagedart.com/blog/30-ways-to-improve-your-website-performance/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/30-ways-to-improve-your-website-performance/</guid>
+      <description>It can be daunting when trying to improve website performance.
+Where do you start?
+With recommendations changing all the time, how can you make sure that you are not left behind?
+With so many areas to improve, where is the best place to concentrate your efforts?
+This article breaks down website performance into small tasks.
+Each one of the tasks is actionable, we will ask:
+ WHY are we improving this aspect of the site WHAT to check on the page HOW to make the improvement  We will also categorize the impact of fixing each task so that you get the biggest bang for your buck.</description>
+    </item>
+    
+    <item>
+      <title>302 vs 301 Redirect: What is best for SEO</title>
+      <link>https://pagedart.com/blog/302-vs-301-redirect/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/302-vs-301-redirect/</guid>
+      <description>Redirecting a web page can be tricky.
+You know that there are at least two ways to do this.
+A 301 or a 302 redirect.
+But which one do you choose?
+   Making a mistake could cause your page to drop in search rankings.
+This article will make it clear when to use a 301 or a 302.
+We call these numbers HTTP status codes.
+Did you know there are also some other status codes you can use?</description>
+    </item>
+    
+    <item>
+      <title>How To Find The Sitemap of a Website</title>
+      <link>https://pagedart.com/blog/how-to-find-the-sitemap-of-a-website/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-find-the-sitemap-of-a-website/</guid>
+      <description>Can&#39;t find the sitemap of a website?
+Sometimes it can be difficult to find the sitemap as there is more than one way to create one.
+Then there are all the different file types XML, TXT, RSS and ATOM. Where do you start?
+I will give you 5 ways to locate the sitemap on any site.
+Before we jump in, let&#39;s define what a sitemap is. Knowing this will help us find where the sitemap is hiding.</description>
+    </item>
+    
+    <item>
+      <title>How To Fix hreflang No Return Tags</title>
+      <link>https://pagedart.com/blog/hreflang-no-return-tags/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/hreflang-no-return-tags/</guid>
+      <description>Have you logged in to &amp;ldquo;International Targeting&amp;rdquo; section in Google Search Console?
+Have you found the &amp;ldquo;no return tags&amp;rdquo; error?
+What is it?
+This article will show you how to fix this error.
+   If you already have a good idea what hreflang tags do then skip to the &amp;ldquo;How Do You Fix The No Return Tags Issue?&amp;rdquo; section of this article.
+If you would also like an overview of what hreflang is and why we use them, keep reading.</description>
+    </item>
+    
+    <item>
+      <title>How to Improve TTFB</title>
+      <link>https://pagedart.com/blog/how-to-improve-ttfb/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-improve-ttfb/</guid>
+      <description>The TTFB or Time To First Byte is the time it takes for your web server to respond to a user&#39;s request.
+TTFB is critical to the success of your website.
+Research has shown that if your page takes longer than 3 seconds to load you will start to lose users.
+This is your bounce rate.
+TTFB matters. The page stays blank during this time and the user has to wait.</description>
+    </item>
+    
+    <item>
+      <title>How to install node.js, the easy way</title>
+      <link>https://pagedart.com/blog/how-to-install-node-js/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-install-node-js/</guid>
+      <description>We are going to look at how to install node.js the easy way on Mac OS X, Windows and Linux.
+You don&#39;t need to download the node package and try to install it. No! We are going to do it the easy way using package managers.
+Once you have node installed you will be able to run server-side JavaScript on your computer.
+We will also look at how you can upgrade node so you always have the latest version.</description>
+    </item>
+    
+    <item>
+      <title>How to link JavaScript to HTML</title>
+      <link>https://pagedart.com/blog/how-to-link-javascript-to-html/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-link-javascript-to-html/</guid>
+      <description>When creating web pages there comes a time when you need to do a bit more than display content. You need to load JavaScript.
+One of the first JavaScript files added is Google Analytics to track page loads and visitors.
+But how do you link JavaScript to HTML?
+In this tutorial, we are going to cover how to link JavaScript to HTML. We will look at:</description>
+    </item>
+    
+    <item>
+      <title>How to minify JavaScript</title>
+      <link>https://pagedart.com/blog/how-to-minify-javascript/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-minify-javascript/</guid>
+      <description>When you minify your JavaScript you will improve your sites Page Speed.
+In this tutorial, we are going to look at how to minify JavaScript. We will cover:
+ Minify JavaScript Recap Why should I minify JavaScript How to Minify JavaScript  How to minify JavaScript with a CDN How to minify JavaScript With an Online Tool How to minify JavaScript for WordPress   Wrapping Up, How to minify JavaScript   Minify JavaScript Recap You may have noticed that sometimes there are two versions of JavaScript.</description>
+    </item>
+    
+    <item>
+      <title>How to Optimize Images for Websites: Without Losing Quality</title>
+      <link>https://pagedart.com/blog/how-to-optimize-images-for-websites/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-optimize-images-for-websites/</guid>
+      <description>People of the internet, you&#39;re obsessed with cats.
+One of the most famous internet cats is Grumpy Cat on Instagram.
+He has over 2.7 million followers. 2.7 million!
+There is a problem with this. These cats are slowing down the internet.
+  Well, the cats are not slowing down the internet. Pictures are slowing down the internet.
+These images are getting bigger in file size. Which means they are slowing down webpages.</description>
+    </item>
+    
+    <item>
+      <title>How to Remove Unused CSS</title>
+      <link>https://pagedart.com/blog/how-to-remove-unused-css/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-remove-unused-css/</guid>
+      <description>After running an audit you may see this recommended opportunity:
+&amp;ldquo;Remove unused CSS&amp;rdquo;
+Lighthouse or PageSpeed Insights both recommended that you fix this issue.
+    Why do we need to fix &amp;ldquo;unused CSS&amp;rdquo;? What is &amp;ldquo;unused CSS&amp;rdquo;? How can we remove &amp;ldquo;unused CSS&amp;rdquo;?  In this article, we will answer these questions and show exactly what CSS you should be removing.
+ What is Unused CSS? How does Unused CSS Slow Down Performance?</description>
+    </item>
+    
+    <item>
+      <title>How to Submit a Sitemap to Google</title>
+      <link>https://pagedart.com/blog/how-to-submit-a-sitemap-to-google/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-submit-a-sitemap-to-google/</guid>
+      <description>In this tutorial, we are going to learn how to submit a sitemap to Google.
+When setting up a new website you need to give it every chance of success.
+You can do this by submitting your sitemap to Google Search Console. This will:
+ Increase the chances of your pages getting search traffic Make Google&#39;s web crawler aware of all your sites pages Give you access to the Google Webmaster Tools including search reports for SEO See any errors or issues that are stopping your pages from appearing in the search index  Don&#39;t forget to do the same for Bing Webmaster Tools.</description>
+    </item>
+    
+    <item>
+      <title>Image Alt Text SEO Best Practices</title>
+      <link>https://pagedart.com/blog/image-alt-text-seo-best-practices/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/image-alt-text-seo-best-practices/</guid>
+      <description>Let&#39;s look at the SEO best practices for setting image alt text.
+You must remember that the reason you use alt text is to describe the image to visually impaired users.
+Never forget this.
+Whenever you are writing your alt text descriptions you should always have this in mind.
+Alt text is for humans not for you to get better rankings.
+Yet, the trick is to give an excellent description that:</description>
+    </item>
+    
+    <item>
+      <title>Importance of Mobile Friendly Websites</title>
+      <link>https://pagedart.com/blog/importance-of-mobile-friendly-websites/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/importance-of-mobile-friendly-websites/</guid>
+      <description>I was traveling on the train when planning this post.
+Browsing the web, doing some fact-checking on my phone.
+I looked up and saw at least 20 other passengers all staring at their mobile.
+In the last 10 years, the rise of mobile has triggered a seismic shift in how we consume content.
+A 2017 report by CDN provider Akamai shows that:
+ Over 56% of online sales traffic over the holiday period, was on mobile Mobile devices also had the highest conversion rate growth with 71% on Black Friday The Mobile bounce rate was 50% (Ouch!</description>
+    </item>
+    
+    <item>
+      <title>Indexed Though Blocked by Robots txt</title>
+      <link>https://pagedart.com/blog/indexed-though-blocked-by-robots-txt/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/indexed-though-blocked-by-robots-txt/</guid>
+      <description>Another day wrangling the world of SEO.
+You crack open Google Search Console only to find a new warning!
+ Indexed, though blocked by robots.txt
+ OK, grab a coffee let&#39;s get this sorted.
+ What does Indexed, though blocked by robots.txt mean? What is a robots.txt file Fixing the Rule in the Robots.txt Removing a page from Google Index  Add a noindex meta tag to the page you want to remove Remove the URL from Google Search Console   Wrapping Up, Indexed Though Blocked by Robots txt   What does Indexed, though blocked by robots.</description>
+    </item>
+    
+    <item>
+      <title>Linking Image in HTML: How to create links from images</title>
+      <link>https://pagedart.com/blog/linking-images-in-html/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/linking-images-in-html/</guid>
+      <description>We are going to take a beginner friendly look at how to create image links on your website.
+We will look at which HTML tags you need to use in the code.
+If you have never done this before, don&#39;t worry! I will guide you through the whole process.
+By the end of this article, you will be creating image links all over your web page and the Internet.
+We are also going to look at some more advanced techniques towards the end of the article if you are feeling brave.</description>
+    </item>
+    
+    <item>
+      <title>Meta Description Character Limit</title>
+      <link>https://pagedart.com/blog/meta-description-character-limit/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/meta-description-character-limit/</guid>
+      <description>How long should a meta description be?
+Too long and the text can get cut off like this:
+    We haven&#39;t picked our&amp;hellip;
+ Those three little dots showing us that there is more text to display but it ran out of space.
+The description has little value if people can&#39;t read it.
+You want a catchy description of something that gets the user to click on the link.</description>
+    </item>
+    
+    <item>
+      <title>Optimize Images for Page Speed</title>
+      <link>https://pagedart.com/blog/optimize-images-for-page-speed/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/optimize-images-for-page-speed/</guid>
+      <description>One thing is clear we have to learn how to optimize images for the web.
+Images are getting bigger and this affects user experience.
+According to reports from HTTP Archive images account for over 60% of your website.
+HTTP Archive also tracks image size in 2010 the average size was 225kb and in 2019 we are now up to under a meg.
+While the number of image requests has gone down in that same period.</description>
+    </item>
+    
+    <item>
+      <title>Robots txt File Checker</title>
+      <link>https://pagedart.com/tools/robots-txt-file-checker/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/tools/robots-txt-file-checker/</guid>
+      <description>Use our robots.txt file checker below to test that your robots.txt file is working.
+Copy and paste your robots.txt file in the textbox below. You can find your robots file by adding /robots.txt to your website. Such as https://example.com/robots.txt.
+    Test Robots.txt        const DIRECTIVE_SITEMAP=&#34;sitemap&#34;,DIRECTIVE_USER_AGENT=&#34;user-agent&#34;,DIRECTIVE_ALLOW=&#34;allow&#34;,DIRECTIVE_DISALLOW=&#34;disallow&#34;,DIRECTIVES_GROUP_MEMBERS=new Set([DIRECTIVE_ALLOW,DIRECTIVE_DISALLOW]),DIRECTIVE_SAFELIST=new Set([DIRECTIVE_USER_AGENT,DIRECTIVE_DISALLOW,DIRECTIVE_ALLOW,DIRECTIVE_SITEMAP,&#34;crawl-delay&#34;,&#34;clean-param&#34;,&#34;host&#34;,&#34;request-rate&#34;,&#34;visit-time&#34;,&#34;noindex&#34;]),SITEMAP_VALID_PROTOCOLS=new Set([&#34;https:&#34;,&#34;http:&#34;,&#34;ftp:&#34;]),parse=e=new Promise((t,r)={Papa.parse(e,{header:!1,complete:function(e){t(e.data)}})});function verifyDirective(e,t){if(!DIRECTIVE_SAFELIST.has(e))throw new Error(&#34;Unknown directive&#34;);if(e===DIRECTIVE_SITEMAP){let e;try{e=new URL(t)}catch(e){throw new Error(&#34;Invalid sitemap URL&#34;)}if(!SITEMAP_VALID_PROTOCOLS.has(e.protocol))throw new Error(&#34;Invalid sitemap URL protocol&#34;</description>
+    </item>
+    
+    <item>
+      <title>Robots txt File Example: 10 Templates To Use</title>
+      <link>https://pagedart.com/blog/robots-txt-file-example/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/robots-txt-file-example/</guid>
+      <description>We are going to look at 10 robots.txt file examples.
+You can either copy them to your site or combine the templates to make your own.
+Remember that the robots.txt effects your SEO so be sure to test the changes you make.
+Let&#39;s get started.
+ 1) Disallow All 2) Allow All 3) Block a Folder 4) Block a file 5) Disallow a File Extension 6) Allow Only Googlebot 7) Disallow a Specific Bot 8) Link to your Sitemap 9) Slow the Crawl Speed 10) Draw a Robot Wrapping Up, Robots txt file example   1) Disallow All The first template will stop all bots from crawling your site.</description>
+    </item>
+    
+    <item>
+      <title>Robots txt for SEO</title>
+      <link>https://pagedart.com/blog/robots-txt-for-seo/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/robots-txt-for-seo/</guid>
+      <description>Robots.txt is a little text file that exists on almost all websites.
+The good news is this little file can give your site an SEO boost!
+Yet, many people are not aware this file exists.
+Once you know what to look for, robots.txt has great power and is easy to understand.
+   Often, optimizing this file is at the end of the list, in favor of more exotic SEO practices.</description>
+    </item>
+    
+    <item>
+      <title>Shopify Page Load Speed: 10 tips to increase web performance</title>
+      <link>https://pagedart.com/blog/shopify-page-load-speed/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/shopify-page-load-speed/</guid>
+      <description>Are you looking to increase the conversion rate on your Shopify site?
+Do you want to increase your Shopify page load speed?
+Do you want an SEO boost by improving the page speed?
+We will go through 10 performance improvements that you can make today to your Shopify store.
+These improvements are:
+ Monitor Mobile Theme Apps Liquid Image Optimization Lazy load Images Javascript CSS Fonts  Before we talk about improvements we must talk about monitoring.</description>
+    </item>
+    
+    <item>
+      <title>Single Quote in HTML</title>
+      <link>https://pagedart.com/blog/single-quote-in-html/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/single-quote-in-html/</guid>
+      <description>What happens when you try and put a single quote in HTML?
+   Does it break your HTML?
+The answer is, it depends.
+Single quotes in HTML can break your site.
+If single quotes are breaking your HTML then I am here to help!
+Let&#39;s look at why it happens and two ways you can fix it.
+ Why do Single Quotes Break Your HTML? How to use Single Quote in HTML Using HTML Escape Strings Escape Special Characters Frequently Asked Questions  Can I use single quotes in HTML?</description>
+    </item>
+    
+    <item>
+      <title>Submit a Sitemap to Bing</title>
+      <link>https://pagedart.com/blog/submit-a-sitemap-to-bing/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/submit-a-sitemap-to-bing/</guid>
+      <description>This is the second part of our series on adding your sitemap to search engines and will show you how you can submit a sitemap to Bing.
+Giving you a better idea of which pages Bing has indexed. Including, reports like the search keywords report showing your rankings.
+Before following this post make sure to complete the submit your sitemap to Google guide. Do this first so you can set up Bing using your Google account (Top tip: it&#39;s much faster that way!</description>
+    </item>
+    
+    <item>
+      <title>Submitted URL Blocked by Robots txt</title>
+      <link>https://pagedart.com/blog/submitted-url-blocked-by-robots-txt/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/submitted-url-blocked-by-robots-txt/</guid>
+      <description>You wake up in the morning and pour a cup of coffee. The first job is to check your email.
+And there it is, a message from Google Search Console telling you that you have:
+ Submitted URL Blocked by Robots txt
+ You open up the search console and see this:
+   Ready? Caffeinated? Let&#39;s get this sorted.
+ What is a Robots.txt file? How to Solve the Submitted URL Blocked by Robots txt Error What if I want to Stop Indexing It&#39;s Still Not Fixed Submitted URL Blocked by Robots txt, Final Thoughts   What is a Robots.</description>
+    </item>
+    
+    <item>
+      <title>Submitted URL Has Crawl Issue</title>
+      <link>https://pagedart.com/blog/submitted-url-has-crawl-issue/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/submitted-url-has-crawl-issue/</guid>
+      <description>Do you see the “Submitted URL has crawl issue” error in Google Search Console?
+Looking at the Coverage Report can you see any errors?
+This article will show you how to fix this issue.
+   The “Submitted URL has crawl issue” is the most difficult of the coverage errors to resolve. There are no clear guidelines on what to do.
+Yet, we will look at some of the common causes and how you can fix them.</description>
+    </item>
+    
+    <item>
+      <title>Submitted URL Seems to be a Soft 404</title>
+      <link>https://pagedart.com/blog/submitted-url-seems-to-be-a-soft-404/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/submitted-url-seems-to-be-a-soft-404/</guid>
+      <description>Let&#39;s continue this series on Google Search Console errors.
+We have already covered:
+ Submitted URL blocked by Robots.txt Submitted URL has crawl issue  Today we are going to fix the &amp;ldquo;Submitted URL Seems to be a Soft 404&amp;rdquo; error.
+If you have opened up the Google Search Console and you have seen something like this:
+   Then we are going to look at the most common causes of this issue and how you can fix them.</description>
+    </item>
+    
+    <item>
+      <title>Unminify CSS</title>
+      <link>https://pagedart.com/blog/unminify-css/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/unminify-css/</guid>
+      <description>Have you lost the original CSS file?
+All you have is the minified version?
+What can you do?!
+Don’t panic!
+I will show you how you can un-minify it and make the changes you need for your site.
+This technique will convert the minified CSS back into a form that is easy to read.
+Once you have made the changes to the file I will then show you how to minify the file again.</description>
+    </item>
+    
+    <item>
+      <title>Web Performance Budget: Do Not Let Your Site Get Overweight</title>
+      <link>https://pagedart.com/blog/web-performance-budget/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/web-performance-budget/</guid>
+      <description>I recently went on my own personal weight loss journey.
+Eventually, with hard work and determination, I was able to reach my goal. I lost 21 pounds (18kg) in just under a year.
+I knew from experience that losing the weight was the easy part.
+It was keeping it off that was hard.
+The daily battle of keeping the weight off!
+So far, I am winning this battle. I have managed to keep the weight off.</description>
+    </item>
+    
+    <item>
+      <title>Website Performance Benchmarks: Track your competitors site speed</title>
+      <link>https://pagedart.com/blog/website-performance-benchmarks/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/website-performance-benchmarks/</guid>
+      <description>Let’s look at how we can use free tools to perform website performance benchmarks against your competitor&#39;s sites.
+Since we are talking about website speed, I think we should begin with a race. Why not race two of the biggest streaming websites, Netflix and Hulu?
+Which page do you think will load faster?
+Your browser does not support the video tag.  Did you guess correctly? Netflix wins this round.</description>
+    </item>
+    
+    <item>
+      <title>Website Performance Factors: 11 tips to speed up your site</title>
+      <link>https://pagedart.com/blog/website-performance-factors/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/website-performance-factors/</guid>
+      <description>We all know what a slow website feels like.
+  Watching the loading bar as it slowly creeps towards complete.
+What happens when it takes too long?
+You leave.
+Life is busy enough, you don&#39;t have time to wait for websites to load!
+But don&#39;t worry. There is lots you can do to make your site fast.
+I am going to list the key website performance factors that are slowing down your site and how to fix them.</description>
+    </item>
+    
+    <item>
+      <title>Website Performance KPIs: The 4 KPIs you need to track</title>
+      <link>https://pagedart.com/blog/website-performance-kpis/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/website-performance-kpis/</guid>
+      <description>Tracking how your website is performing is critical to the success of your site.
+Using KPIs, we can ensure that your site continuously improves over time.
+There are so many aspects to improving a site it can be overwhelming. Aspects such as:
+ Improving traffic Gaining a higher conversion rate Increasing social engagement  But how do we know they are important?
+Before we look at the recommended KPIs, we need a shared understanding of what a KPI is.</description>
+    </item>
+    
+    <item>
+      <title>Website Performance Metrics: The only 3 metrics you need to track</title>
+      <link>https://pagedart.com/blog/website-performance-metrics/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/website-performance-metrics/</guid>
+      <description>Picking the correct website performance metrics is not the simplest task. It&#39;s easy to get lost, with all the data that is available.
+Instead, you need to track the metrics that have the biggest impact on real humans in the real world. Not robots in a lab.
+That&#39;s why there are only 3 metrics that you need to take into account and monitor.
+These metrics all directly affect your users when they browse your site.</description>
+    </item>
+    
+    <item>
+      <title>What is a Canonical URL?</title>
+      <link>https://pagedart.com/blog/what-is-a-canonical-url/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-canonical-url/</guid>
+      <description>What exactly is a canonical URL and why would you need one?
+It can be a tough job maintaining a website and all its content.
+Especially when the site gets big. As the number of developers and content editors working on a site goes up so does the complexity.
+   Keeping track of all the technical and content changes is a full-time job.
+Then people start linking to your site some with HTTP some without.</description>
+    </item>
+    
+    <item>
+      <title>What is a Meta Description?</title>
+      <link>https://pagedart.com/blog/what-is-a-meta-description/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-meta-description/</guid>
+      <description>Have you heard of meta descriptions? Not sure exactly what they are? You have come to the right place!
+We are going to discuss what they are, why you need them and who uses them.
+Google, Facebook, and Twitter will read your meta description. Save it to their database and show it to potential customers on each platform.
+An engaging description will increase traffic to your website. We call this the Click Through Rate (CTR) and descriptions can help improve this.</description>
+    </item>
+    
+    <item>
+      <title>What is a redirect?</title>
+      <link>https://pagedart.com/blog/what-is-a-redirect/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-redirect/</guid>
+      <description>In this post, we are going to look at what is a HTTP redirect.
+We are going to learn:
+ What is a redirect Why do I need to redirect? How do I set up a redirect?  How do I perform a 301 redirect? How do I perform a 302 redirect?   Managing many redirects Wrapping Up, What is a redirect?   It is important to understand redirects.</description>
+    </item>
+    
+    <item>
+      <title>What is a robots.txt?</title>
+      <link>https://pagedart.com/blog/what-is-a-robots-txt/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-robots-txt/</guid>
+      <description>Imagine this, you have put hours into your website writing content.
+Only to find out that your site has blocked Google.
+None of your pages are in search engine results!
+It would be horrible right?!
+Well, that is why you need to understand what is a robots txt file. It is very important to your technical SEO and will determine if a web crawler has access to read your site or not.</description>
+    </item>
+    
+    <item>
+      <title>What is a Static Site Generator?</title>
+      <link>https://pagedart.com/blog/what-is-a-static-site-generator/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-static-site-generator/</guid>
+      <description>I am a huge fan of static site generators and this website is built using one.
+By the end of this post, I will prove to you that this is the best way to create a website in 2020.
+Static site generators have many benefits:
+ Superfast performance Free to host! Simplified SEO Improved security  I will show you how to create your first static site for free!</description>
+    </item>
+    
+    <item>
+      <title>What is an AMP Page?</title>
+      <link>https://pagedart.com/blog/what-is-an-amp-page/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-an-amp-page/</guid>
+      <description>AMP is a way of building fast websites.
+It is like HTML but has its own set of rules that you need to follow.
+   If you follow these rules then Google will cache your page on their server.
+This makes the site super fast for Google Search users.
+But before you rush off and create your first AMP page there is a lot to consider.
+Let&#39;s take a look.</description>
+    </item>
+    
+    <item>
+      <title>What is Lazy Loading?</title>
+      <link>https://pagedart.com/blog/what-is-lazy-loading/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-lazy-loading/</guid>
+      <description>Lazy loading is a way of making your site faster.
+We will look at three things:
+ What is lazy loading? Why should I add lazy loading to my site? How do I add lazy loading to my site?  Lazy loading can have a huge impact on your website speed. If you have many images or youtube videos on a page this technique can speed things up.
+And it’s easier to set up than you would think.</description>
+    </item>
+    
+    <item>
+      <title>What is Schema Markup?</title>
+      <link>https://pagedart.com/blog/what-is-schema-markup/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-schema-markup/</guid>
+      <description>By adding schema markup you give your site an advantage over the competition.
+This is because you use schema markup to create big and engaging Google Search results.
+In this post, we will look at what is schema markup? Why it is important? And how you can add it to your page.
+The topic of schema markup can get complicated fast.
+Instead of getting lost in all the schema types. This post will focus on how you can use schema markup to get more Google Search clicks.</description>
+    </item>
+    
+    <item>
+      <title>What is Technical SEO?</title>
+      <link>https://pagedart.com/blog/what-is-technical-seo/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-technical-seo/</guid>
+      <description>Is SEO an art or a science?
+One of the reasons for this debate is that many SEO tasks are difficult to measure. SEOs perform keyword research and link building. We know that these strategies help content rank, but there is no guarantee.
+Web developers, architects, and DevOps look at these tasks and see them as the job of marketing. Not something they need to worry about.</description>
+    </item>
+    
+    <item>
+      <title>What is YSlow: Why you need to move to Google Lighthouse</title>
+      <link>https://pagedart.com/blog/what-is-yslow/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-yslow/</guid>
+      <description>Over the last few years, the pace at which performance tools have evolved is staggering.
+There are so many factors that can affect how a website loads, that it is impossible to keep up.
+We rely on these tools to help us see through the fog.
+   One of the early tools which would breakdown website performance issues was YSlow.
+This tool was part of an open-source project by Yahoo!</description>
+    </item>
+    
+    <item>
+      <title>Why is my Site not Secure</title>
+      <link>https://pagedart.com/blog/why-is-my-site-not-secure/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/why-is-my-site-not-secure/</guid>
+      <description>Why does chrome warn that your site is not secure?
+Seeing the &amp;ldquo;not secure&amp;rdquo; sign next to the URL, like this:
+   Then your site is not secure!
+Let&#39;s take a look into why and how you can fix it.
+ What Changed? Should I use HTTPS? Should I Have an SSL Certificate? Should I Secure My Site? How to get a Free SSL Certificate Migration from HTTP to HTTPS  Sitemap HTTPS Links HTTPS Server Redirection   Secure Padlock Wrapping Up, Why is my Site not Secure?</description>
+    </item>
+    
+    <item>
+      <title>WWW or No WWW for SEO</title>
+      <link>https://pagedart.com/blog/www-or-no-www-for-seo/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/www-or-no-www-for-seo/</guid>
+      <description>I often get asked:
+ Steve, should my new site use www or no www for SEO?
+ The choice seems simple, should your site have a www:
+https://www.example.com
+or no www:
+https://example.com
+But, does it impact SEO? It does if you use both www and not www inconsistently in your links.
+So pick one and stick to it.
+I recommend that you do not use www on any new site.</description>
+    </item>
+    
+    <item>
+      <title>WordPress Search for Custom Post Type</title>
+      <link>https://pagedart.com/blog/wordpress-search-for-custom-post-type/</link>
+      <pubDate>Sun, 03 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/wordpress-search-for-custom-post-type/</guid>
+      <description>In this tutorial, we are going to create a search bar that will only search your custom post types in WordPress.
+We will cover:
+ How to Create a Custom Post Type  Adding a Custom Post Type with Code Using a plugin to create a Custom Post Type   Creating a Custom Post My Custom Post Type is not Showing in Search How to Search only a Custom Post Type WordPress Search for Custom Post Type, Final Thoughts   Let&#39;s dive in.</description>
+    </item>
+    
+    <item>
+      <title>What is a search index?</title>
+      <link>https://pagedart.com/blog/what-is-a-search-index/</link>
+      <pubDate>Mon, 27 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-search-index/</guid>
+      <description>We take search for granted today on the internet.
+We use Google daily to find information across billions of pages in under a second.
+Do we ever stop to think how magical this is? How does a search index work?
+Today we are going to dive into search and what is a search index.
+In this article we will cover:
+ What is a search index? How are search indexes made?</description>
+    </item>
+    
+    <item>
+      <title>How to Defer Parsing of JavaScript</title>
+      <link>https://pagedart.com/blog/how-to-defer-parsing-of-javascript/</link>
+      <pubDate>Tue, 21 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-defer-parsing-of-javascript/</guid>
+      <description>When speeding up your website two things have the biggest impact.
+ Optimize your images and lazy load Defer parsing of JavaScript  The first is easy to understand. The second is much more difficult to get a handle on.
+What exactly is defer parsing of JavaScript?
+This article is going to cover how to defer parsing of Javascript.
+This is a complex subject.
+Even if you decide not to attempt this yourself.</description>
+    </item>
+    
+    <item>
+      <title>Best Lazy Load Plugin</title>
+      <link>https://pagedart.com/blog/best-lazy-load-plugin/</link>
+      <pubDate>Mon, 13 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/best-lazy-load-plugin/</guid>
+      <description>Today we are going to look at the best lazy load plugin that you can install in WordPress.
+Lazy loading images can be one of the single best improvements you can make to speed up your site.
+Yet, not all plugins are equal!
+Many lazy load plugins use old techniques that will slow down your site on modern browsers.
+We are going to cover only 3 of the best plugins that deserve your attention.</description>
+    </item>
+    
+    <item>
+      <title>How to Restore a WordPress Site</title>
+      <link>https://pagedart.com/blog/how-to-restore-a-wordpress-site/</link>
+      <pubDate>Sun, 05 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-restore-a-wordpress-site/</guid>
+      <description>Uh oh! I am sorry to hear that your WordPress site is not very well!
+Don&#39;t worry this tutorial will help you to restore it.
+We have covered how to backup your site in a previous article. Make sure you follow that to understand the backup options you have.
+If you followed that article or you have backups that use the same techniques then, you have a backup with either a:</description>
+    </item>
+    
+    <item>
+      <title>How to Backup a WordPress Site</title>
+      <link>https://pagedart.com/blog/how-to-backup-a-wordpress-site/</link>
+      <pubDate>Tue, 31 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-backup-a-wordpress-site/</guid>
+      <description>Things will and do go wrong with WordPress and you need to be ready. In this tutorial, we are going to cover how to backup a WordPress site.
+We are going to leave nothing to chance. I will cover how to do backups using three methods:
+ Your hosting provider A plugin Manual backup  You should use all these backup methods. That&#39;s right all methods!
+When you are preparing to backup your site you need to think about the worst-case scenario.</description>
+    </item>
+    
+    <item>
+      <title>How to Defer Offscreen Images in WordPress</title>
+      <link>https://pagedart.com/blog/how-to-defer-offscreen-images-in-wordpress/</link>
+      <pubDate>Fri, 27 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-defer-offscreen-images-in-wordpress/</guid>
+      <description>PageSpeed Insights will suggest that you need to defer offscreen images:
+   In the above example, deferring these images will speed up the page by 9 seconds!
+In this tutorial, I will show you how to defer offscreen images in WordPress to give your site a speed boost.
+ PageSpeed Insights Results The Fold Lazy Loading How to add Lazy loading to WordPress Wrapping Up, How to Defer Offscreen Images in WordPress   PageSpeed Insights Results When PageSpeed Insights finds many images on a page it will suggest that you &amp;ldquo;defer offscreen images&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Create a Sitemap for WordPress</title>
+      <link>https://pagedart.com/blog/create-a-sitemap-for-wordpress/</link>
+      <pubDate>Tue, 24 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/create-a-sitemap-for-wordpress/</guid>
+      <description>In this tutorial, you are going to learn how to create a sitemap for WordPress. Sitemaps help SEO as they are a list of all the pages on your site.
+Submit this list to Google and Bing to help your pages appear in the search results.
+We will create a sitemap for your site step-by-step we will also cover how you can then submit this to Google and Bing.</description>
+    </item>
+    
+    <item>
+      <title>How to Install a WordPress Plugin</title>
+      <link>https://pagedart.com/blog/how-to-install-a-wordpress-plugin/</link>
+      <pubDate>Fri, 20 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-install-a-wordpress-plugin/</guid>
+      <description>In this article, we are going to look at how to install a WordPress plugin. If you are an absolute beginner at WordPress don&#39;t worry. It can be scary when you need to install a plugin for the first time.
+With this guide, I will walk you through it step by step.
+There are two ways you can install a plugin on WordPress:
+ Using the WordPress plugins marketplace Upload a plugin using a zip file  We are going to cover both of these here so whether you already have the plugin zip file or not this guide will help you.</description>
+    </item>
+    
+    <item>
+      <title>Where is Robots.txt in WordPress</title>
+      <link>https://pagedart.com/blog/where-is-robots-txt-in-wordpress/</link>
+      <pubDate>Tue, 17 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/where-is-robots-txt-in-wordpress/</guid>
+      <description>Where is robots.txt in WordPress? This is the question we are going to answer in this tutorial.
+We will cover where to find it and look at the contents of the file. With explanations of each line helping you understand what it does.
+With that knowledge, you can edit the file with confidence. We will also test the changes using tools from Google to make sure there are no mistakes.</description>
+    </item>
+    
+    <item>
+      <title>How to Optimize Images in WordPress</title>
+      <link>https://pagedart.com/blog/how-to-optimize-images-in-wordpress/</link>
+      <pubDate>Wed, 11 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-optimize-images-in-wordpress/</guid>
+      <description>Images make up a large part of any web page. When people ask me what they should do to improve page speed, I always reply to &amp;ldquo;optimize your images&amp;rdquo;.
+In this tutorial, we are going to cover how you can optimize images in WordPress.
+We will cover:
+ Why should you optimize images? What is an optimized image? How to optimize images Image Optimization and Page Speed ReSmushIt Advanced Settings Wrapping Up, How to Optimize Images in WordPress   Let&#39;s get started.</description>
+    </item>
+    
+    <item>
+      <title>How to Embed Youtube Videos on WordPress</title>
+      <link>https://pagedart.com/blog/how-to-embed-youtube-videos-on-wordpress/</link>
+      <pubDate>Mon, 09 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-embed-youtube-videos-on-wordpress/</guid>
+      <description>We are going to look at how to embed youtube videos on WordPress step by step.
+We will look at how you can add a video with the WordPress blocks editor and why you should not use it!
+I will show you the correct way without slowing down your site.
+Let&#39;s dive in.
+ Embed a Youtube Video Youtube Embed Code Youtube and Page Speed How to Embed Youtube Videos on WordPress, Final Thoughts   Embed a Youtube Video If you are using the latest version of WordPress then you are using the new editor which uses blocks.</description>
+    </item>
+    
+    <item>
+      <title>How to Redirect HTTP to HTTPS in WordPress</title>
+      <link>https://pagedart.com/blog/how-to-redirect-http-to-https-in-wordpress/</link>
+      <pubDate>Wed, 04 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-redirect-http-to-https-in-wordpress/</guid>
+      <description>Is your site secure? In this article, we are going to make sure it is!
+We will look at how to redirect HTTP to HTTPS in WordPress which will secure your site for your customers.
+As well as giving your users privacy HTTPS will also give you an SEO boost thanks to Google.
+To run your website over HTTPS you will need an SSL certificate, this can sound scary.</description>
+    </item>
+    
+    <item>
+      <title>What is a CDN?</title>
+      <link>https://pagedart.com/blog/what-is-a-cdn/</link>
+      <pubDate>Sat, 22 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-cdn/</guid>
+      <description>A CDN stands for Content Delivery Network. It has one job. To get your website as close as possible to your users.
+It can make all the difference to your page speed by storing a copy of your web pages in the cloud.
+We are going to look at what is a CDN, how they work and some of the providers on the market.
+Let&#39;s get started
+ What is a CDN and How do they Work What are the benefits of a CDN  Uptime Page Speed Scale as Users Grow Website Security Control of Assets   CDN Providers  BunnyCDN KeyCDN Cloudflare Fastly   Wrapping Up, What is a CDN?</description>
+    </item>
+    
+    <item>
+      <title>What are broken links?</title>
+      <link>https://pagedart.com/blog/what-are-broken-links/</link>
+      <pubDate>Mon, 17 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-are-broken-links/</guid>
+      <description>Links that no longer work are Broken Links.
+This could be because the page has gone or because there was a typo in the URL.
+Either way, the link is broken and this leads to poor user experience.
+You should make sure users have the best experience possible. So, you need to fix broken links.
+In this article, we are going to look at how you can find and fix these links.</description>
+    </item>
+    
+    <item>
+      <title>How to Call a Function in JavaScript?</title>
+      <link>https://pagedart.com/blog/how-to-call-a-function-in-javascript/</link>
+      <pubDate>Mon, 10 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-call-a-function-in-javascript/</guid>
+      <description>Functions are one of the main building blocks for JavaScript development.
+In this article we are going to look at:
+ How to call a function in JavaScript How to call a function from HTML How to call a function using the onclick event handler How to create a self-invoking function How to call an arrow function  There is a lot to cover!
+This is a beginner tutorial.</description>
+    </item>
+    
+    <item>
+      <title>What is a Web Crawler?</title>
+      <link>https://pagedart.com/blog/what-is-a-web-crawler/</link>
+      <pubDate>Tue, 04 Feb 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-web-crawler/</guid>
+      <description>Let&#39;s dive into the world of web crawlers. A web crawler is software built to read the contents of web pages all over the internet.
+Sometimes also called bots or spiders. The most popular web crawler is Googlebot.
+Googlebot will visit your website and read the content of the page. Once it understands what the page is about, it will add the pages to the search engine index. The index is where Google stores information about your website.</description>
+    </item>
+    
+    <item>
+      <title>What is a sitemap?</title>
+      <link>https://pagedart.com/blog/what-is-a-sitemap/</link>
+      <pubDate>Tue, 28 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-sitemap/</guid>
+      <description>Sitemaps are important for your website&#39;s technical SEO. Google will use your sitemap to discover all the web pages on your site and get the content indexed.
+If your site is new then this is crucial! Google will not find a page until there is an external link to it.
+To help Google and others find your web pages you can create a sitemap. This is an XML file that lists the URL structure of your blog or site.</description>
+    </item>
+    
+    <item>
+      <title>What is Alt Text?</title>
+      <link>https://pagedart.com/blog/what-is-alt-text/</link>
+      <pubDate>Tue, 21 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-alt-text/</guid>
+      <description>What is alt text anyway?
+Let&#39;s look at what it is, why it is important and how to write great alt text.
+I will leave you with 5 tips for writing the perfect alt text.
+Grab your favorite beverage, let&#39;s dive in.
+ What is Alt Text anyway? Why is Alt Text Important? Alt text and SEO How to write great alt text?  1) Write the alt text as if you were describing it to a friend 2) Keep it short 3) Create unique descriptions for every image 4) Use your keywords if it describes the image 5) Don&#39;t do keyword stuffing   What are alt attributes and title attributes?</description>
+    </item>
+    
+    <item>
+      <title>What is a Title Tag?</title>
+      <link>https://pagedart.com/blog/what-is-a-title-tag/</link>
+      <pubDate>Sun, 19 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-title-tag/</guid>
+      <description>Every web page needs a title. At first look, you would think they are simple. Just adding a title right?!
+Yet, they are much more complicated than that.
+A title tag is the way your title is displayed on the following;
+ On search engines (SERPs, Google, Bing) Social media (Facebook, Twitter, Pinterest, etc) Web browsers (Chrome, Firefox, IE, Edge, etc)  They are very important for your SEO.</description>
+    </item>
+    
+    <item>
+      <title>Google Crawler User Agent</title>
+      <link>https://pagedart.com/blog/google-crawler-user-agent/</link>
+      <pubDate>Sun, 22 Dec 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/google-crawler-user-agent/</guid>
+      <description>Do you know when Google crawls your site?
+Knowing this is the biggest indicator of your site&#39;s importance.
+The more important your site, the more often Google will crawl.
+So it is fundamental that you track this metric in 2020.
+But, how can you track when Google crawls?
+To track this you need to track Googlebot, this is Google&#39;s web crawler.
+We can track Googlebot by using its user agent.</description>
+    </item>
+    
+    <item>
+      <title>Difference Between URI and URL</title>
+      <link>https://pagedart.com/blog/difference-between-uri-and-url/</link>
+      <pubDate>Mon, 18 Nov 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/difference-between-uri-and-url/</guid>
+      <description>It&#39;s 1994 and you are creating the World Wide Web.
+You need a way to find a file on any computer connected to the internet.
+Not easy!
+You do some research and find that there is a specification for a URI.
+The URI helps you find a file on a computer.
+Eureka!
+What if you use the URI format but instead of finding files on a single computer you use it to find files on any computer.</description>
+    </item>
+    
+    <item>
+      <title>Does Page Speed Affect SEO</title>
+      <link>https://pagedart.com/blog/does-page-speed-affect-seo/</link>
+      <pubDate>Wed, 06 Nov 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/does-page-speed-affect-seo/</guid>
+      <description>Does Page Speed Affect SEO? Yes.
+It&#39;s that simple.
+Google has been pushing Page Speed for the last few years and one thing is clear.
+They want your website to be fast.
+In this article, we will look at why they want the web to be fast.
+We will also look at how you can measure your site and make improvements.
+Google has provided many tools in this space and we will show you how to use them.</description>
+    </item>
+    
+    <item>
+      <title>Edge SEO: What is it and what does it solve?</title>
+      <link>https://pagedart.com/blog/edge-seo/</link>
+      <pubDate>Sun, 06 Oct 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/edge-seo/</guid>
+      <description>It can be frustrating when working as a technical SEO.
+You know what to change and yet the development team has a huge backlog and can&#39;t squeeze you in.
+After giving them your recommendations you think it won&#39;t be long until implementation. The task will only take a few hours. And you wait as the technical SEO changes get de-prioritized.
+   The business has other urgent changes and you watch as your task slides down the backlog.</description>
+    </item>
+    
+    <item>
+      <title>Factors Affecting Website Performance: Minify and Compress</title>
+      <link>https://pagedart.com/blog/factors-affecting-website-performance/</link>
+      <pubDate>Fri, 13 Sep 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/factors-affecting-website-performance/</guid>
+      <description>Websites are getting larger. HTTP Archive has been tracking the page weight of sites since 2010 and there is a clear trend.
+The size of pages on the web is increasing.
+In July 2019 the average size was under 2mb. With some pages creeping up above 7mb and it’s not that the sites have more files.
+HTTP Archive also tracks the number of requests sent from a page.
+These requests to files like CSS, javascript, images, etc are not going up at the same rate.</description>
+    </item>
+    
+    <item>
+      <title>Compare Website Speed Side by Side</title>
+      <link>https://pagedart.com/blog/compare-website-speed-side-by-side/</link>
+      <pubDate>Tue, 03 Sep 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/compare-website-speed-side-by-side/</guid>
+      <description>In this post, we are going to look at how we can compare two webpages side by side.
+To do this we are going to use the free tool from WebPageTest.org.
+The tool is the visual comparison tool.
+The killer feature of this tool is that it allows you to create a video that loads two or more websites side by side like this:
+Your browser does not support the video tag.</description>
+    </item>
+    
+    <item>
+      <title>Benchmark Websites: Track Competitors Performance Using Google Sheets</title>
+      <link>https://pagedart.com/blog/benchmark-websites/</link>
+      <pubDate>Sun, 01 Sep 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/benchmark-websites/</guid>
+      <description>This post is a hands-on guide on how to use free tools to track and watch your competitor&#39;s websites.
+We have discussed in Website Performance Benchmarks the importance of tracking your competitors.
+Let&#39;s look at how we can automate the process.
+And did we mention all for free!
+We will use the tools Google Sheets and the Google PageSpeed Insights API as our data source.
+Don&#39;t worry if you aren&#39;t a software developer.</description>
+    </item>
+    
+  </channel>
+</rss>

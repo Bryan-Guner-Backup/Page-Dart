@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on PageDart</title>
+    <link>https://pagedart.com/categories/</link>
+    <description>Recent content in Categories on PageDart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 18:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://pagedart.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>search</title>
+      <link>https://pagedart.com/categories/search/</link>
+      <pubDate>Wed, 20 May 2020 18:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/categories/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wordpress</title>
+      <link>https://pagedart.com/categories/wordpress/</link>
+      <pubDate>Wed, 20 May 2020 13:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/categories/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fundamentals</title>
+      <link>https://pagedart.com/categories/fundamentals/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/categories/fundamentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>images</title>
+      <link>https://pagedart.com/categories/images/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/categories/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://pagedart.com/categories/javascript/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/categories/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>page speed</title>
+      <link>https://pagedart.com/categories/page-speed/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/categories/page-speed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://pagedart.com/categories/security/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/categories/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technical seo</title>
+      <link>https://pagedart.com/categories/technical-seo/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/categories/technical-seo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

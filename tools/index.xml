@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEO Tools on PageDart</title>
+    <link>https://pagedart.com/tools/</link>
+    <description>Recent content in SEO Tools on PageDart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pagedart.com/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Robots txt File Checker</title>
+      <link>https://pagedart.com/tools/robots-txt-file-checker/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/tools/robots-txt-file-checker/</guid>
+      <description>Use our robots.txt file checker below to test that your robots.txt file is working.
+Copy and paste your robots.txt file in the textbox below. You can find your robots file by adding /robots.txt to your website. Such as https://example.com/robots.txt.
+    Test Robots.txt        const DIRECTIVE_SITEMAP=&#34;sitemap&#34;,DIRECTIVE_USER_AGENT=&#34;user-agent&#34;,DIRECTIVE_ALLOW=&#34;allow&#34;,DIRECTIVE_DISALLOW=&#34;disallow&#34;,DIRECTIVES_GROUP_MEMBERS=new Set([DIRECTIVE_ALLOW,DIRECTIVE_DISALLOW]),DIRECTIVE_SAFELIST=new Set([DIRECTIVE_USER_AGENT,DIRECTIVE_DISALLOW,DIRECTIVE_ALLOW,DIRECTIVE_SITEMAP,&#34;crawl-delay&#34;,&#34;clean-param&#34;,&#34;host&#34;,&#34;request-rate&#34;,&#34;visit-time&#34;,&#34;noindex&#34;]),SITEMAP_VALID_PROTOCOLS=new Set([&#34;https:&#34;,&#34;http:&#34;,&#34;ftp:&#34;]),parse=e=new Promise((t,r)={Papa.parse(e,{header:!1,complete:function(e){t(e.data)}})});function verifyDirective(e,t){if(!DIRECTIVE_SAFELIST.has(e))throw new Error(&#34;Unknown directive&#34;);if(e===DIRECTIVE_SITEMAP){let e;try{e=new URL(t)}catch(e){throw new Error(&#34;Invalid sitemap URL&#34;)}if(!SITEMAP_VALID_PROTOCOLS.has(e.protocol))throw new Error(&#34;Invalid sitemap URL protocol&#34;</description>
+    </item>
+    
+  </channel>
+</rss>

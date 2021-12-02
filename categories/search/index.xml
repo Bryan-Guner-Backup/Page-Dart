@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>search on PageDart</title>
+    <link>https://pagedart.com/categories/search/</link>
+    <description>Recent content in search on PageDart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 18:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://pagedart.com/categories/search/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Add Google Search to a Website</title>
+      <link>https://pagedart.com/blog/add-google-search-to-a-website/</link>
+      <pubDate>Wed, 20 May 2020 18:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/add-google-search-to-a-website/</guid>
+      <description>In this tutorial we are going to cover the fastest way to add Google Search to a website.
+I will show you a super quick way to add a Google search box on your website in under 5 minutes.
+Some of you who land on this page may not be looking to add a Google search box on your site.
+You may be looking to get your website pages into the Google search results.</description>
+    </item>
+    
+    <item>
+      <title>How to Add a Search Bar in HTML</title>
+      <link>https://pagedart.com/blog/how-to-add-a-search-bar-in-html/</link>
+      <pubDate>Wed, 20 May 2020 12:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-add-a-search-bar-in-html/</guid>
+      <description>In this tutorial, we are going to add a search bar in HTML to your site!
+I will walk you through all the components you need to add a search bar in HTML and connect it to Google to search.
+Google will open in a new tab and only show results for your site.
+For those in a rush, the complete solution is at the bottom of the page. For those who want the deep dive keep reading!</description>
+    </item>
+    
+    <item>
+      <title>Add Search to WordPress Menu</title>
+      <link>https://pagedart.com/blog/add-search-to-wordpress-menu/</link>
+      <pubDate>Wed, 20 May 2020 11:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/add-search-to-wordpress-menu/</guid>
+      <description>In this tutorial, we are going to add search to the WordPress Menu.
+This is not as easy as you might think!
+There is no easy way in the WordPress admin area to add the search bar. But fear not, I will show you two ways you can add the search bar yourself.
+One option will have you installing an off-the-shelf plugin. The second option is adding some code to your site.</description>
+    </item>
+    
+    <item>
+      <title>WordPress Search for Custom Post Type</title>
+      <link>https://pagedart.com/blog/wordpress-search-for-custom-post-type/</link>
+      <pubDate>Sun, 03 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/wordpress-search-for-custom-post-type/</guid>
+      <description>In this tutorial, we are going to create a search bar that will only search your custom post types in WordPress.
+We will cover:
+ How to Create a Custom Post Type  Adding a Custom Post Type with Code Using a plugin to create a Custom Post Type   Creating a Custom Post My Custom Post Type is not Showing in Search How to Search only a Custom Post Type WordPress Search for Custom Post Type, Final Thoughts   Let&#39;s dive in.</description>
+    </item>
+    
+    <item>
+      <title>What is a search index?</title>
+      <link>https://pagedart.com/blog/what-is-a-search-index/</link>
+      <pubDate>Mon, 27 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-search-index/</guid>
+      <description>We take search for granted today on the internet.
+We use Google daily to find information across billions of pages in under a second.
+Do we ever stop to think how magical this is? How does a search index work?
+Today we are going to dive into search and what is a search index.
+In this article we will cover:
+ What is a search index? How are search indexes made?</description>
+    </item>
+    
+  </channel>
+</rss>

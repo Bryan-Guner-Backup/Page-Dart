@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>images on PageDart</title>
+    <link>https://pagedart.com/categories/images/</link>
+    <description>Recent content in images on PageDart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://pagedart.com/categories/images/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Optimize Images for Websites: Without Losing Quality</title>
+      <link>https://pagedart.com/blog/how-to-optimize-images-for-websites/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-optimize-images-for-websites/</guid>
+      <description>People of the internet, you&#39;re obsessed with cats.
+One of the most famous internet cats is Grumpy Cat on Instagram.
+He has over 2.7 million followers. 2.7 million!
+There is a problem with this. These cats are slowing down the internet.
+  Well, the cats are not slowing down the internet. Pictures are slowing down the internet.
+These images are getting bigger in file size. Which means they are slowing down webpages.</description>
+    </item>
+    
+    <item>
+      <title>Image Alt Text SEO Best Practices</title>
+      <link>https://pagedart.com/blog/image-alt-text-seo-best-practices/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/image-alt-text-seo-best-practices/</guid>
+      <description>Let&#39;s look at the SEO best practices for setting image alt text.
+You must remember that the reason you use alt text is to describe the image to visually impaired users.
+Never forget this.
+Whenever you are writing your alt text descriptions you should always have this in mind.
+Alt text is for humans not for you to get better rankings.
+Yet, the trick is to give an excellent description that:</description>
+    </item>
+    
+    <item>
+      <title>Linking Image in HTML: How to create links from images</title>
+      <link>https://pagedart.com/blog/linking-images-in-html/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/linking-images-in-html/</guid>
+      <description>We are going to take a beginner friendly look at how to create image links on your website.
+We will look at which HTML tags you need to use in the code.
+If you have never done this before, don&#39;t worry! I will guide you through the whole process.
+By the end of this article, you will be creating image links all over your web page and the Internet.
+We are also going to look at some more advanced techniques towards the end of the article if you are feeling brave.</description>
+    </item>
+    
+    <item>
+      <title>Optimize Images for Page Speed</title>
+      <link>https://pagedart.com/blog/optimize-images-for-page-speed/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/optimize-images-for-page-speed/</guid>
+      <description>One thing is clear we have to learn how to optimize images for the web.
+Images are getting bigger and this affects user experience.
+According to reports from HTTP Archive images account for over 60% of your website.
+HTTP Archive also tracks image size in 2010 the average size was 225kb and in 2019 we are now up to under a meg.
+While the number of image requests has gone down in that same period.</description>
+    </item>
+    
+    <item>
+      <title>What is Lazy Loading?</title>
+      <link>https://pagedart.com/blog/what-is-lazy-loading/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-lazy-loading/</guid>
+      <description>Lazy loading is a way of making your site faster.
+We will look at three things:
+ What is lazy loading? Why should I add lazy loading to my site? How do I add lazy loading to my site?  Lazy loading can have a huge impact on your website speed. If you have many images or youtube videos on a page this technique can speed things up.
+And it’s easier to set up than you would think.</description>
+    </item>
+    
+  </channel>
+</rss>

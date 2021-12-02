@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technical seo on PageDart</title>
+    <link>https://pagedart.com/categories/technical-seo/</link>
+    <description>Recent content in technical seo on PageDart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://pagedart.com/categories/technical-seo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>302 vs 301 Redirect: What is best for SEO</title>
+      <link>https://pagedart.com/blog/302-vs-301-redirect/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/302-vs-301-redirect/</guid>
+      <description>Redirecting a web page can be tricky.
+You know that there are at least two ways to do this.
+A 301 or a 302 redirect.
+But which one do you choose?
+   Making a mistake could cause your page to drop in search rankings.
+This article will make it clear when to use a 301 or a 302.
+We call these numbers HTTP status codes.
+Did you know there are also some other status codes you can use?</description>
+    </item>
+    
+    <item>
+      <title>How To Find The Sitemap of a Website</title>
+      <link>https://pagedart.com/blog/how-to-find-the-sitemap-of-a-website/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-find-the-sitemap-of-a-website/</guid>
+      <description>Can&#39;t find the sitemap of a website?
+Sometimes it can be difficult to find the sitemap as there is more than one way to create one.
+Then there are all the different file types XML, TXT, RSS and ATOM. Where do you start?
+I will give you 5 ways to locate the sitemap on any site.
+Before we jump in, let&#39;s define what a sitemap is. Knowing this will help us find where the sitemap is hiding.</description>
+    </item>
+    
+    <item>
+      <title>How To Fix hreflang No Return Tags</title>
+      <link>https://pagedart.com/blog/hreflang-no-return-tags/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/hreflang-no-return-tags/</guid>
+      <description>Have you logged in to &amp;ldquo;International Targeting&amp;rdquo; section in Google Search Console?
+Have you found the &amp;ldquo;no return tags&amp;rdquo; error?
+What is it?
+This article will show you how to fix this error.
+   If you already have a good idea what hreflang tags do then skip to the &amp;ldquo;How Do You Fix The No Return Tags Issue?&amp;rdquo; section of this article.
+If you would also like an overview of what hreflang is and why we use them, keep reading.</description>
+    </item>
+    
+    <item>
+      <title>How to Remove Unused CSS</title>
+      <link>https://pagedart.com/blog/how-to-remove-unused-css/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-remove-unused-css/</guid>
+      <description>After running an audit you may see this recommended opportunity:
+&amp;ldquo;Remove unused CSS&amp;rdquo;
+Lighthouse or PageSpeed Insights both recommended that you fix this issue.
+    Why do we need to fix &amp;ldquo;unused CSS&amp;rdquo;? What is &amp;ldquo;unused CSS&amp;rdquo;? How can we remove &amp;ldquo;unused CSS&amp;rdquo;?  In this article, we will answer these questions and show exactly what CSS you should be removing.
+ What is Unused CSS? How does Unused CSS Slow Down Performance?</description>
+    </item>
+    
+    <item>
+      <title>How to Submit a Sitemap to Google</title>
+      <link>https://pagedart.com/blog/how-to-submit-a-sitemap-to-google/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/how-to-submit-a-sitemap-to-google/</guid>
+      <description>In this tutorial, we are going to learn how to submit a sitemap to Google.
+When setting up a new website you need to give it every chance of success.
+You can do this by submitting your sitemap to Google Search Console. This will:
+ Increase the chances of your pages getting search traffic Make Google&#39;s web crawler aware of all your sites pages Give you access to the Google Webmaster Tools including search reports for SEO See any errors or issues that are stopping your pages from appearing in the search index  Don&#39;t forget to do the same for Bing Webmaster Tools.</description>
+    </item>
+    
+    <item>
+      <title>Indexed Though Blocked by Robots txt</title>
+      <link>https://pagedart.com/blog/indexed-though-blocked-by-robots-txt/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/indexed-though-blocked-by-robots-txt/</guid>
+      <description>Another day wrangling the world of SEO.
+You crack open Google Search Console only to find a new warning!
+ Indexed, though blocked by robots.txt
+ OK, grab a coffee let&#39;s get this sorted.
+ What does Indexed, though blocked by robots.txt mean? What is a robots.txt file Fixing the Rule in the Robots.txt Removing a page from Google Index  Add a noindex meta tag to the page you want to remove Remove the URL from Google Search Console   Wrapping Up, Indexed Though Blocked by Robots txt   What does Indexed, though blocked by robots.</description>
+    </item>
+    
+    <item>
+      <title>Meta Description Character Limit</title>
+      <link>https://pagedart.com/blog/meta-description-character-limit/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/meta-description-character-limit/</guid>
+      <description>How long should a meta description be?
+Too long and the text can get cut off like this:
+    We haven&#39;t picked our&amp;hellip;
+ Those three little dots showing us that there is more text to display but it ran out of space.
+The description has little value if people can&#39;t read it.
+You want a catchy description of something that gets the user to click on the link.</description>
+    </item>
+    
+    <item>
+      <title>Robots txt File Example: 10 Templates To Use</title>
+      <link>https://pagedart.com/blog/robots-txt-file-example/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/robots-txt-file-example/</guid>
+      <description>We are going to look at 10 robots.txt file examples.
+You can either copy them to your site or combine the templates to make your own.
+Remember that the robots.txt effects your SEO so be sure to test the changes you make.
+Let&#39;s get started.
+ 1) Disallow All 2) Allow All 3) Block a Folder 4) Block a file 5) Disallow a File Extension 6) Allow Only Googlebot 7) Disallow a Specific Bot 8) Link to your Sitemap 9) Slow the Crawl Speed 10) Draw a Robot Wrapping Up, Robots txt file example   1) Disallow All The first template will stop all bots from crawling your site.</description>
+    </item>
+    
+    <item>
+      <title>Robots txt for SEO</title>
+      <link>https://pagedart.com/blog/robots-txt-for-seo/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/robots-txt-for-seo/</guid>
+      <description>Robots.txt is a little text file that exists on almost all websites.
+The good news is this little file can give your site an SEO boost!
+Yet, many people are not aware this file exists.
+Once you know what to look for, robots.txt has great power and is easy to understand.
+   Often, optimizing this file is at the end of the list, in favor of more exotic SEO practices.</description>
+    </item>
+    
+    <item>
+      <title>Single Quote in HTML</title>
+      <link>https://pagedart.com/blog/single-quote-in-html/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/single-quote-in-html/</guid>
+      <description>What happens when you try and put a single quote in HTML?
+   Does it break your HTML?
+The answer is, it depends.
+Single quotes in HTML can break your site.
+If single quotes are breaking your HTML then I am here to help!
+Let&#39;s look at why it happens and two ways you can fix it.
+ Why do Single Quotes Break Your HTML? How to use Single Quote in HTML Using HTML Escape Strings Escape Special Characters Frequently Asked Questions  Can I use single quotes in HTML?</description>
+    </item>
+    
+    <item>
+      <title>Submit a Sitemap to Bing</title>
+      <link>https://pagedart.com/blog/submit-a-sitemap-to-bing/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/submit-a-sitemap-to-bing/</guid>
+      <description>This is the second part of our series on adding your sitemap to search engines and will show you how you can submit a sitemap to Bing.
+Giving you a better idea of which pages Bing has indexed. Including, reports like the search keywords report showing your rankings.
+Before following this post make sure to complete the submit your sitemap to Google guide. Do this first so you can set up Bing using your Google account (Top tip: it&#39;s much faster that way!</description>
+    </item>
+    
+    <item>
+      <title>Submitted URL Blocked by Robots txt</title>
+      <link>https://pagedart.com/blog/submitted-url-blocked-by-robots-txt/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/submitted-url-blocked-by-robots-txt/</guid>
+      <description>You wake up in the morning and pour a cup of coffee. The first job is to check your email.
+And there it is, a message from Google Search Console telling you that you have:
+ Submitted URL Blocked by Robots txt
+ You open up the search console and see this:
+   Ready? Caffeinated? Let&#39;s get this sorted.
+ What is a Robots.txt file? How to Solve the Submitted URL Blocked by Robots txt Error What if I want to Stop Indexing It&#39;s Still Not Fixed Submitted URL Blocked by Robots txt, Final Thoughts   What is a Robots.</description>
+    </item>
+    
+    <item>
+      <title>Submitted URL Has Crawl Issue</title>
+      <link>https://pagedart.com/blog/submitted-url-has-crawl-issue/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/submitted-url-has-crawl-issue/</guid>
+      <description>Do you see the “Submitted URL has crawl issue” error in Google Search Console?
+Looking at the Coverage Report can you see any errors?
+This article will show you how to fix this issue.
+   The “Submitted URL has crawl issue” is the most difficult of the coverage errors to resolve. There are no clear guidelines on what to do.
+Yet, we will look at some of the common causes and how you can fix them.</description>
+    </item>
+    
+    <item>
+      <title>Submitted URL Seems to be a Soft 404</title>
+      <link>https://pagedart.com/blog/submitted-url-seems-to-be-a-soft-404/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/submitted-url-seems-to-be-a-soft-404/</guid>
+      <description>Let&#39;s continue this series on Google Search Console errors.
+We have already covered:
+ Submitted URL blocked by Robots.txt Submitted URL has crawl issue  Today we are going to fix the &amp;ldquo;Submitted URL Seems to be a Soft 404&amp;rdquo; error.
+If you have opened up the Google Search Console and you have seen something like this:
+   Then we are going to look at the most common causes of this issue and how you can fix them.</description>
+    </item>
+    
+    <item>
+      <title>Unminify CSS</title>
+      <link>https://pagedart.com/blog/unminify-css/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/unminify-css/</guid>
+      <description>Have you lost the original CSS file?
+All you have is the minified version?
+What can you do?!
+Don’t panic!
+I will show you how you can un-minify it and make the changes you need for your site.
+This technique will convert the minified CSS back into a form that is easy to read.
+Once you have made the changes to the file I will then show you how to minify the file again.</description>
+    </item>
+    
+    <item>
+      <title>What is a Static Site Generator?</title>
+      <link>https://pagedart.com/blog/what-is-a-static-site-generator/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/what-is-a-static-site-generator/</guid>
+      <description>I am a huge fan of static site generators and this website is built using one.
+By the end of this post, I will prove to you that this is the best way to create a website in 2020.
+Static site generators have many benefits:
+ Superfast performance Free to host! Simplified SEO Improved security  I will show you how to create your first static site for free!</description>
+    </item>
+    
+    <item>
+      <title>WWW or No WWW for SEO</title>
+      <link>https://pagedart.com/blog/www-or-no-www-for-seo/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/www-or-no-www-for-seo/</guid>
+      <description>I often get asked:
+ Steve, should my new site use www or no www for SEO?
+ The choice seems simple, should your site have a www:
+https://www.example.com
+or no www:
+https://example.com
+But, does it impact SEO? It does if you use both www and not www inconsistently in your links.
+So pick one and stick to it.
+I recommend that you do not use www on any new site.</description>
+    </item>
+    
+    <item>
+      <title>Create a Sitemap for WordPress</title>
+      <link>https://pagedart.com/blog/create-a-sitemap-for-wordpress/</link>
+      <pubDate>Tue, 24 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/create-a-sitemap-for-wordpress/</guid>
+      <description>In this tutorial, you are going to learn how to create a sitemap for WordPress. Sitemaps help SEO as they are a list of all the pages on your site.
+Submit this list to Google and Bing to help your pages appear in the search results.
+We will create a sitemap for your site step-by-step we will also cover how you can then submit this to Google and Bing.</description>
+    </item>
+    
+    <item>
+      <title>Where is Robots.txt in WordPress</title>
+      <link>https://pagedart.com/blog/where-is-robots-txt-in-wordpress/</link>
+      <pubDate>Tue, 17 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/where-is-robots-txt-in-wordpress/</guid>
+      <description>Where is robots.txt in WordPress? This is the question we are going to answer in this tutorial.
+We will cover where to find it and look at the contents of the file. With explanations of each line helping you understand what it does.
+With that knowledge, you can edit the file with confidence. We will also test the changes using tools from Google to make sure there are no mistakes.</description>
+    </item>
+    
+    <item>
+      <title>Google Crawler User Agent</title>
+      <link>https://pagedart.com/blog/google-crawler-user-agent/</link>
+      <pubDate>Sun, 22 Dec 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/google-crawler-user-agent/</guid>
+      <description>Do you know when Google crawls your site?
+Knowing this is the biggest indicator of your site&#39;s importance.
+The more important your site, the more often Google will crawl.
+So it is fundamental that you track this metric in 2020.
+But, how can you track when Google crawls?
+To track this you need to track Googlebot, this is Google&#39;s web crawler.
+We can track Googlebot by using its user agent.</description>
+    </item>
+    
+    <item>
+      <title>Difference Between URI and URL</title>
+      <link>https://pagedart.com/blog/difference-between-uri-and-url/</link>
+      <pubDate>Mon, 18 Nov 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/difference-between-uri-and-url/</guid>
+      <description>It&#39;s 1994 and you are creating the World Wide Web.
+You need a way to find a file on any computer connected to the internet.
+Not easy!
+You do some research and find that there is a specification for a URI.
+The URI helps you find a file on a computer.
+Eureka!
+What if you use the URI format but instead of finding files on a single computer you use it to find files on any computer.</description>
+    </item>
+    
+    <item>
+      <title>Edge SEO: What is it and what does it solve?</title>
+      <link>https://pagedart.com/blog/edge-seo/</link>
+      <pubDate>Sun, 06 Oct 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://pagedart.com/blog/edge-seo/</guid>
+      <description>It can be frustrating when working as a technical SEO.
+You know what to change and yet the development team has a huge backlog and can&#39;t squeeze you in.
+After giving them your recommendations you think it won&#39;t be long until implementation. The task will only take a few hours. And you wait as the technical SEO changes get de-prioritized.
+   The business has other urgent changes and you watch as your task slides down the backlog.</description>
+    </item>
+    
+  </channel>
+</rss>
